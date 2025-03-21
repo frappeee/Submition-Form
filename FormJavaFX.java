@@ -53,7 +53,6 @@ public class FormJavaFX extends Application {
         resetButton.getStyleClass().add("styled-button");
         regisButton.getStyleClass().add("styled-button");
 
-        // HBox for buttons
         HBox buttonBox = new HBox(10);
         buttonBox.setAlignment(Pos.CENTER);
         buttonBox.getChildren().addAll(resetButton, regisButton);
