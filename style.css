@@ -1,0 +1,23 @@
+.main-layout {
+    -fx-background-color: #FFE5B4;
+}
+
+.heading-label {
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+}
+
+.styled-text-field {
+    -fx-padding: 10px;
+}
+
+.styled-menu {
+    -fx-background-color: #855A5C;
+    -fx-border-color: #855A5C;
+}
+
+.styled-button {
+    -fx-background-color:#855A5C;
+    -fx-text-fill: white;
+    -fx-padding:10px;
+}
